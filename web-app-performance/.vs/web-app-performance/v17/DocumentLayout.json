@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\web-app-performance-master\\web-app-performance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|d:\\web-app-performance-master\\web-app-performance\\web-app-performance\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|d:\\web-app-performance-master\\web-app-performance\\web-app-performance\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|d:\\web-app-performance-master\\web-app-performance\\web-app-performance\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\web-app-performance-master\\web-app-performance\\web-app-performance\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\web-app-performance-master\\web-app-performance\\web-app-performance\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "web-app-performance\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:41:00.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\web-app-performance-master\\web-app-performance\\web-app-performance\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Model\\Usuario.cs",
+              "ToolTip": "D:\\web-app-performance-master\\web-app-performance\\web-app-performance\\Model\\Usuario.cs",
+              "RelativeToolTip": "web-app-performance\\Model\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T00:55:22.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\web-app-performance-master\\web-app-performance\\web-app-performance\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\web-app-performance-master\\web-app-performance\\web-app-performance\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "web-app-performance\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAYwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T00:01:11.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
